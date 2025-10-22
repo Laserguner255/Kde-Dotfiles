@@ -2,7 +2,7 @@
 BoldIntense=true
 BorderWhenActive=false
 ColorScheme=catppuccin-frappe
-Font=JetBrainsMonoNL Nerd Font,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+Font=JetBrains Mono,12,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
 UseFontLineChararacters=true
 
 [Cursor Options]
