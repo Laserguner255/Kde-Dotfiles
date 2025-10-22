@@ -16,7 +16,7 @@
 - Apply the catppuccin frappe lavender colorscheme and make sure the accent color is provided by the colorscheme (This option is automaticly disabled on Endeavour OS)
 - Apply the WhiteSur Dark icon theme
 - Add a new command or script keyboard shortcut for the script located at ~/.config/rofi/launcher.sh
-- Map the previous command to WIN+D (If after appling it does not launch rofi run: chmod =x ~/.config/rofi/launcher.sh)
+- Map the previous command to WIN+D (If after appling it does not launch rofi run: chmod +x ~/.config/rofi/launcher.sh)
 - Unpin broken icons on the dock
 - Change your default shell to /usr/bin/fish via chsh (Optional)
 - In disable Hamburger Menu Toolbar, Main Tool Bar & Show Side bar in kate 
