@@ -17,7 +17,7 @@ set -U __done_notification_urgency_level low
 
 ## setting default applications
 set editor micro
-set elevate doas
+set elevate sudo
 
 ## Environment setup
 # Apply .profile: use this to put fish compatible .profile stuff in
