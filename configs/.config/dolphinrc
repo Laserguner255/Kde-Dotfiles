@@ -1,0 +1,36 @@
+MenuBar=Disabled
+
+[ContextMenu]
+ShowCopyToOtherSplitView=false
+ShowMoveToOtherSplitView=false
+ShowSortBy=false
+ShowViewMode=false
+
+[DetailsMode]
+PreviewSize=64
+RightPadding=208
+
+[ExtractDialog]
+2 screens: Height=714
+2 screens: Width=854
+
+[General]
+DoubleClickViewAction=none
+RememberOpenedTabs=false
+Version=202
+ViewPropsTimestamp=2025,8,21,18,49,0.472
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Enabled
+
+[PreviewSettings]
+Plugins=kraorathumbnail,ebookthumbnail,ffmpegthumbs,opendocumentthumbnail,svgthumbnail,windowsexethumbnail,cursorthumbnail,directorythumbnail,audiothumbnail,imagethumbnail,comicbookthumbnail,djvuthumbnail,fontthumbnail,jpegthumbnail,windowsimagethumbnail,gdk-pixbuf-thumbnailer
+
+[ViewPropertiesDialog]
+2 screens: Height=334
+2 screens: Width=418

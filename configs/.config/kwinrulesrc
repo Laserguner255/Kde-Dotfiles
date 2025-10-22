@@ -1,0 +1,15 @@
+[General]
+count=1
+rules=b9d7e5fe-debe-49ee-bf16-b81e9eb7a082
+
+[b9d7e5fe-debe-49ee-bf16-b81e9eb7a082]
+Description=Window Blur
+noborder=true
+noborderrule=2
+opacityactive=93
+opacityactiverule=2
+opacityinactive=85
+opacityinactiverule=2
+
+[e124f468-6021-4520-9a05-c3d8272c0ec8]
+opacityactiverule=2

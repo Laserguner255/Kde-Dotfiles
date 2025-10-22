@@ -1,0 +1,6 @@
+[Libinput][9354][23342][XCTECH USB Gaming Mouse]
+PointerAcceleration=0.000
+PointerAccelerationProfile=1
+
+[Mouse]
+cursorTheme=breeze_cursors
