@@ -7,10 +7,22 @@
 ![Screenshot 4](./images/Showcase-4.png)
 </details>
 
+## Included configs 
+- fish
+- rofi
+- btop
+- konsole
+- kde planels & wigets
+- eza
+- starship
+- fastfetch
+- micro
+- gtk
+
 ## Installation
 - Install [Better Blur](https://github.com/taj-ny/kwin-effects-forceblur)
 - install [PlasMusic Toolbar](https://store.kde.org/p/2088872]), [Panel Colorizer](https://store.kde.org/p/2130967), [Polonium](https://github.com/zeroxoneafour/polonium/releases/tag/nightly) and [WhiteSur Icons](https://store.kde.org/p/1405756/)
-- Install the packages: fish starship fastfetch micro eza btop
+- Install the packages: fish starship fastfetch micro rofi eza btop
 - Download contents of git repo and copy everthing from the configs folder to your home directory
 - Reboot your computer
 - Apply the catppuccin frappe lavender colorscheme and make sure the accent color is provided by the colorscheme (This option is automaticly disabled on Endeavour OS)
